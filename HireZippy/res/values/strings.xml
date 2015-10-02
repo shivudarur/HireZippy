@@ -1,8 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">HireZippy</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Hire Zippy</string>
+
+    <!-- login -->
+    <string name="tag_line">Personalize your job and talent hunt</string>
+    <string name="new_user">New User</string>
+    <string name="email_address_hint">Email address</string>
+    <string name="password_hint">Password</string>
+    <string name="signin">Signin</string>
+    <string name="existing">Existing</string>
+    <!-- end of Login -->
+    <!-- Home -->
+    <string name="payment_successful">Payment Successful</string>
+    <string name="do_you_want_continuity">Do You want Continuity next Booking</string>
+    <string name="pay_in_advance">to Pay In Advance</string>
+    <string name="continue_str">&#160;&#160;Continue \u003e&#160;&#160;</string>
+    <string name="dear">Dear</string>
+    <string name="last_visited">Last Visited</string>
+    <string name="renewal_alert">&#160;&#160;Renewal Alert&#160;&#160;</string>
+    <string name="business_limit">Business\n Limit</string>
+    <string name="used_amount">Used\n Amount</string>
+    <string name="balance_amount">Balance\n Amount</string>
+    <string name="credit_limit">Credit\n Limit</string>
+    <string name="current_day_offers">Current day Offers</string>
+    <string name="str_continue">Continue</string>
+    <string name="click_here"><![CDATA[ <u>Click here</u>&#160]]></string>
+    <string name="to_pay_in_advance">to Pay In Advance</string>
+    <string name="int_place_holder">1000/-</string>
+    <string name="place_holder">place holder</string>
+    <string name="vacant">Vacant</string>
+    <string name="inactive">InActive</string>
+    <!-- end of Home -->
+    <!-- Logout -->
+    <string name="next_login_details">Next Login Details</string>
+    <string name="location">Location:&#160;</string>
+    <string name="status">Status:&#160;</string>
+    <string name="time">Time:&#160;</string>
+    <string name="bookings">Bookings:&#160;</string>
+    <string name="earnings">Earnings:&#160;&#160;</string>
+    <string name="logout">Logout</string>
+    <string name="yes">Yes</string>
+    <string name="driver_name">Driver Name</string>
+    <string name="colon">:</string>
+    <string name="driver_id">Driver ID</string>
+    <string name="current_location">"Current Location"</string>
+    <string name="expected_login_location">"Expected Login Location"</string>
+    <string name="submit">Submit</string>
+    <!-- End of Logout -->
+
+    <string name="earn_with_sigma">Earn With Sigma</string>
+    <string name="reason">Reason:&#160;</string>
+    <string name="your_credit_limit_crossed">Your Credit Limit Crossed</string>
+    <string name="call">Call</string>
+    <string name="pay">Pay</string>
+    <string name="cbn">Cbn:&#160;</string>
+    <string name="name">Name:&#160;</string>
+    <string name="pick_up_location">Pick up Location :&#160;</string>
+    <string name="special_request"> Special Request  :&#160;</string>
+    <string name="distance">DISTANCE</string>
+    <string name="pickup_time">PICKUP TIME</string>
+    <string name="time_left">TIME LEFT</string>
+    <string name="kms">Kms</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="mr">Mr.</string>
+    <string name="miss">Miss.</string>
+    <string name="mrs">Mrs.</string>
+    <string name="booking_alloted">Booking Alloted</string>
+    <!-- <string name="booking_alloted_msg">CBN %s is alloted to %s with Driver Acceptance</string> -->
+
+
+    <!-- main menu stringsss -->
+    <string name="my_trips">My Trips</string>
+    <string name="my_account">My Account</string>
+    <string name="my_vehicle">My Vehicle</string>
+    <string name="feedback">Feedback</string>
+    <string name="view_offers">View Offers</string>
+    <string name="payments">Payments</string>
+    <string name="driver_guide">Driver Guide</string>
+    <string name="guarage_support">Guarage Support</string>
+    <string name="request">Request</string>
+
+    <!-- fragment billing payment mode stringsss -->
+    <string name="rupee">\u20B9&#160;&#160;</string>
+    <string name="billing_details">\u20B9 Billing Details</string>
+    <string name="detailed_billingg_info">Detailed Billing Info</string>
+    <string name="total_payable">Total Payable</string>
+    <string name="rupee_sample">\u20B9 2500/-</string>
+    <string name="select_payment_mode">Select Payment Mode</string>
+    <string name="cash_pay">Cash Pay</string>
+    <string name="card_swiping">Card Swiping</string>
+    <string name="wallet">Wallet</string>
+    <string name="travel_card">Travel Card</string>
+    <string name="actual_pay">Actual Pay</string>
+    <string name="other_payment_modes">Other Payment Mode</string>
+
+    <!-- fragment process bill -->
+    <string name="receiving_bill_from_server">"Receiving Bill From Server"</string>
+    <!-- End of fragment process bill -->
+
+
+    <!-- fragment generate bill -->
+    <string name="fare_breakup">Fare Breakup</string>
+    <string name="travelled_distace">"Travelled Distace"</string>
+    <string name="first_10km">First 10km</string>
+    <string name="extra_12kms">Extra 12kms(12/km)</string>
+    <string name="total_trip_time">Total Trip Time</string>
+    <string name="free_trip_time">Free Trip Time(10 min)</string>
+    <string name="trip_time_charge">Trip Time Charge for 41 min</string>
+    <!-- End of fragment generate bill -->
+
+
+    <!-- fragment_booking_summary -->
+    <string name="booking_summary">"Booking Summary"</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="booking_distance">Distance</string>
+    <string name="trip_time">Trip Time</string>
+    <string name="fare">Fare</string>
+    <string name="earning">Earning</string>
+    <string name="ac_summary">A/c Summary</string>
+    <!-- End of fragment_booking_summary -->
 
 </resources>

@@ -1,4 +1,9 @@
-package com.android.hirezippy;
+package com.android.hirezippy.activities;
+
+import com.android.hirezippy.R;
+import com.android.hirezippy.R.id;
+import com.android.hirezippy.R.layout;
+import com.android.hirezippy.R.menu;
 
 import android.app.Activity;
 import android.app.ActionBar;
